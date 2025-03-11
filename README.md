@@ -1,4 +1,4 @@
-# Generador de Scripts Automáticos
+ # Generador de Scripts Automáticos
 
 ## Descripción
 Este script de Bash crea una carpeta específica y genera 500 scripts dentro de ella.  
@@ -29,5 +29,4 @@ Hola, desde archivo-1
 - Bash instalado en el sistema.
 - Permisos suficientes para crear archivos en la ruta especificada.
 
-## Autor
-César Antonio Martínez Chávez
+
